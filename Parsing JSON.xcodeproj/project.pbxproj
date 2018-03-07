@@ -12,6 +12,7 @@
 		C52045671FE128C60042C7A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C52045651FE128C60042C7A2 /* Main.storyboard */; };
 		C52045691FE128C60042C7A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C52045681FE128C60042C7A2 /* Assets.xcassets */; };
 		C520456C1FE128C60042C7A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C520456A1FE128C60042C7A2 /* LaunchScreen.storyboard */; };
+		C537FEE52050877300945D0D /* JSONPlaceholderVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C537FEE42050877300945D0D /* JSONPlaceholderVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C52045681FE128C60042C7A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C520456B1FE128C60042C7A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C520456D1FE128C60042C7A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C537FEE42050877300945D0D /* JSONPlaceholderVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONPlaceholderVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C52045611FE128C60042C7A2 /* AppDelegate.swift */,
 				C52045631FE128C60042C7A2 /* ViewController.swift */,
+				C537FEE42050877300945D0D /* JSONPlaceholderVC.swift */,
 				C52045651FE128C60042C7A2 /* Main.storyboard */,
 				C52045681FE128C60042C7A2 /* Assets.xcassets */,
 				C520456A1FE128C60042C7A2 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C52045641FE128C60042C7A2 /* ViewController.swift in Sources */,
+				C537FEE52050877300945D0D /* JSONPlaceholderVC.swift in Sources */,
 				C52045621FE128C60042C7A2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
